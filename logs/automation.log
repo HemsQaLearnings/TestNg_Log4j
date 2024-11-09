@@ -1,0 +1,73 @@
+2024-07-11 01:13:41 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:13:46 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:13:59 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:14:06 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:14:15 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
+2024-07-11 01:14:24 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:14:29 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:14:42 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:14:49 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:14:59 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
+2024-07-11 01:15:07 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:15:12 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:15:25 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:15:32 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:15:42 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
+2024-07-11 01:17:46 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:17:51 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:18:03 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:18:11 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:18:20 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
+2024-07-11 01:18:26 INFO  TestCase1:75 - ******** Verification Completed *********
+2024-07-11 01:18:26 INFO  TestCase1:83 - Tc01 completed sucessfully
+2024-07-11 01:22:32 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:22:42 ERROR TestCase1:79 - Test Failed
+2024-07-11 01:22:42 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:23:32 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:23:36 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:23:49 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:23:56 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:24:06 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
+2024-07-11 01:24:12 INFO  TestCase1:75 - ******** Verification Completed *********
+2024-07-11 01:24:12 INFO  TestCase1:83 - Tc01 completed sucessfully
+2024-07-11 01:25:49 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:26:10 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:26:15 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:26:27 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:26:35 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:26:44 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
+2024-07-11 01:26:53 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:26:57 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:27:10 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:27:18 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:27:27 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
+2024-07-11 01:27:35 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:27:41 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:27:53 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:28:01 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:28:10 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
+2024-07-11 01:30:03 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-11 01:30:03 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-07-11 01:30:03 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-11 01:30:03 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-07-11 01:30:04 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:30:10 ERROR TestCase1:79 - Test Failed
+2024-07-11 01:30:10 DEBUG TestCase1:80 - Debug failure
+2024-07-11 01:30:11 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-11 01:30:11 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-07-11 01:30:11 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-11 01:30:11 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-07-11 01:30:13 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:30:18 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:30:32 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:30:39 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:30:48 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
+2024-07-11 01:30:56 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-11 01:30:56 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-07-11 01:30:56 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-11 01:30:56 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-07-11 01:30:56 INFO  TestCase1:28 - ******** Starting TC_01_HomePageTest *********
+2024-07-11 01:31:02 INFO  TestCase1:42 - ******** Clicked on AddEmployee major Tab *********
+2024-07-11 01:31:15 INFO  TestCase1:49 - ******** Added Employee details *********
+2024-07-11 01:31:22 INFO  TestCase1:58 - ******** Clicked on EmployeeList details Major Tab *********
+2024-07-11 01:31:32 INFO  TestCase1:65 - ******** Clicked on Submit Major Tab *********
